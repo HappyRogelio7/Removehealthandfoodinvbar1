@@ -1,0 +1,6 @@
+name: Removehealthandfoodinvbar
+version: '${project.version}'
+main: com.github.happyrogelio7.removehealthandfoodinvbar.Removehealthandfoodinvbar
+authors: [ HappyRogelio7 ]
+description: Removehealthandfoodinvbar
+website: https://github.com/HappyRogelio7

@@ -4,8 +4,11 @@ Removehealthandfoodinvbar1
 Note: I only did it to test for the moment I managed to remove the XP bar.
 
 Info:
+
 Version: 1.0-SNAPSHOT
+
 Version-Java: Azul 11 (64Bits)
+
 Versions Minecraft:
 
 > 1.8.X
